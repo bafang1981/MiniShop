@@ -1,0 +1,7 @@
+desktop.ini
+Thumbs.db
+*.exe
+*.msi
+node_modules/
+dist/
+.env
